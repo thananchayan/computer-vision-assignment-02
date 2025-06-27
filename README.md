@@ -13,7 +13,7 @@ image-processing-assignment-02/
 │   ├── otsu_noise.py             # Functions for Otsu thresholding with noise
 │   └── region_grow.py            # Region growing segmentation
 ├── inputs/
-│   └── input.png       # Synthetic image with 3 intensity levels
+│   └── input.png                 # Synthetic image with 3 intensity levels
 ├── outputs/                      # Output results (thresholds, segmentations)
 ├── README.md                     # This file
 ```
